@@ -77,7 +77,7 @@ h3 {
 
 **7. Using HTML Text Elements for Additional Styling**
 
-HTML text elements like "<span>", "<strong>", and "<u>" provide additional ways to style specific parts of your text. These tags offer flexibility in how you highlight, emphasize, or differentiate portions of your content.
+HTML text elements like <strong>, and <u> provide additional ways to style specific parts of your text. These tags offer flexibility in how you highlight, emphasize, or differentiate portions of your content.
 
 **7.1 The <span> Tag**
 
