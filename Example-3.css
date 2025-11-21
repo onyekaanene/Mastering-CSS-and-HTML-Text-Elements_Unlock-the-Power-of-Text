@@ -1,0 +1,11 @@
+/*
+Example:  3. Text Color and Decoration
+
+Use the color property to change text color and text-decoration to add effects like underlines.
+This will make links blue and remove the underline.
+*/
+
+a {
+  color: blue;
+  text-decoration: none;
+}
