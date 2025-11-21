@@ -1,0 +1,11 @@
+/*
+Example: 5. Letter and Line Spacing
+
+Use letter-spacing to adjust space between characters and line-height to adjust space between lines.
+This will slightly increase the space between characters and lines in a paragraph.
+*/
+
+p {
+  letter-spacing: 1px;
+  line-height: 1.5;
+}
