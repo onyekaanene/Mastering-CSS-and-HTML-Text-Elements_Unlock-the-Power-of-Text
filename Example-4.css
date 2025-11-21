@@ -1,0 +1,12 @@
+/*
+Example:  4. Text Transformation
+
+The text-transform property changes the case of text.
+This will convert the heading text to uppercase.
+
+*/
+
+
+h2 {
+  text-transform: uppercase;
+}
