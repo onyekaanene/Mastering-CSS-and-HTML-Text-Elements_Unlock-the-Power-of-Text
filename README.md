@@ -77,41 +77,7 @@ h3 {
 
 **7. Using HTML Text Elements for Additional Styling**
 
-HTML text elements like <strong>, and <u> provide additional ways to style specific parts of your text. These tags offer flexibility in how you highlight, emphasize, or differentiate portions of your content.
-
-**7.1 The <span> Tag**
-
-The <span> tag is an inline container used to style specific portions of text within a block element. It is commonly used with CSS to apply styles like color, background, or font changes to parts of a sentence.
-
-**Example:** The text inside the <span> will appear in red. This tag is particularly useful when you need to style a word or phrase without affecting the entire block.
-
-<p>This is a <span style="color: red;">red text</span> inside a paragraph.</p>
-
-**7.2 The <strong> Tag**
-
-The <strong> tag is used to emphasize text, indicating that the enclosed text is important. By default, browsers render text inside the <strong> tag as bold, but it can also be styled further with CSS.
-
-**Example:** The text inside the <strong> tag will appear bold. Using this tag can help convey importance or highlight key points in your content.
-
-<p>This is a <strong>bold statement</strong> in a sentence.</p>
-
-**7.3 The <u> Tag**
-
-The <u> tag is used to underline text. While it was previously considered outdated for visual styling purposes, it is now often used to denote important content or links.
-
-**Example:** The text inside the <u> tag will be underlined. Underlining text can be useful to draw attention to specific words or phrases, but avoid overusing it to maintain readability.
-
-<p>This is an <u>underlined text</u> example.</p>
-
-
-**7.4 Combining HTML Tags**
-
-You can combine these HTML tags to achieve complex text styling. Consider the exaple below:
-
-**Example:** The text inside the <strong> and <u> tags will be both bold and underlined.
-
-<p>This is a <strong><u>bold and underlined</u></strong> text example.</p>
-
+HTML text elements provide additional ways to style specific parts of your text. These tags offer flexibility in how you highlight, emphasize, or differentiate portions of your content as shown in example 7 (attached).
 
 **Conclusion**
 
