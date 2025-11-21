@@ -1,0 +1,9 @@
+/*
+Example: 2. Text Alignment
+
+Use the text-align property to control the horizontal alignment of text. This will center the heading text.
+*/
+
+h1 {
+  text-align: center;
+}
